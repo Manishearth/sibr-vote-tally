@@ -1,66 +1,75 @@
 Tabulating votes for New York Millennials
-Result after round 1 (19 votes)
-NYM:	27.19%
-NYML:	18.42%
-NYMI:	21.05%
-MILL:	6.14%
-MILS:	27.19%
+Result after round 1 (24 votes)
+NYM:	31.94%
+NYML:	16.67%
+NYMI:	16.67%
+MIL:	6.25%
+MILL:	6.94%
+MILS:	21.53%
+No winners above threshold, running another round after eliminating MIL
+0.804347826087
+Result after round 2 (26 votes)
+NYM:	34.62%
+NYML:	16.67%
+NYMI:	15.38%
+MILL:	6.41%
+MILS:	26.92%
 No winners above threshold, running another round after eliminating MILL
-0.774193548387
-Result after round 2 (21 votes)
-NYM:	29.37%
-NYML:	19.84%
-NYMI:	19.05%
-MILS:	31.75%
+0.814814814815
+Result after round 3 (26 votes)
+NYM:	37.18%
+NYML:	19.87%
+NYMI:	15.38%
+MILS:	27.56%
 No winners above threshold, running another round after eliminating NYMI
-0.4
-Result after round 3 (20 votes)
-NYM:	45.83%
-NYML:	20.83%
-MILS:	33.33%
+0.586206896552
+Result after round 4 (25 votes)
+NYM:	50.67%
+NYML:	20.67%
+MILS:	28.67%
 No winners above threshold, running another round after eliminating NYML
-0.545454545455
-Result after round 4 (20 votes)
-NYM:	52.50%
-MILS:	47.50%
+0.592105263158
+Result after round 5 (24 votes)
+NYM:	58.33%
+MILS:	41.67%
 Found winner: NYM
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Breckenridge Jazz Hands
-Result after round 1 (33 votes)
-BJH:	1.52%
-BJAZ:	10.61%
-HAND:	4.55%
-JAND:	6.06%
-JAZZ:	77.27%
+Result after round 1 (34 votes)
+BJH:	1.47%
+BJAZ:	10.29%
+HAND:	4.41%
+JAND:	5.88%
+JAZZ:	77.94%
 Found winner: JAZZ
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Seattle Garages
-Result after round 1 (77 votes)
-GAR:	11.47%
-SEAG:	11.26%
-SEGA:	25.11%
-GRGS:	9.09%
-SEA:	43.07%
+Result after round 1 (83 votes)
+GAR:	10.64%
+SEAG:	11.04%
+SEGA:	27.51%
+GRGS:	9.64%
+SEA:	41.16%
 No winners above threshold, running another round after eliminating GRGS
-0.788944723618
-Result after round 2 (97 votes)
-GAR:	17.10%
-SEAG:	14.69%
-SEGA:	24.14%
-SEA:	44.07%
+0.765853658537
+Result after round 2 (104 votes)
+GAR:	17.39%
+SEAG:	14.18%
+SEGA:	25.88%
+SEA:	42.55%
 No winners above threshold, running another round after eliminating SEAG
 0.666666666667
-Result after round 3 (97 votes)
-GAR:	21.48%
-SEGA:	27.15%
-SEA:	51.37%
+Result after round 3 (104 votes)
+GAR:	21.47%
+SEGA:	28.69%
+SEA:	49.84%
 No winners above threshold, running another round after eliminating GAR
-0.581939799331
-Result after round 4 (95 votes)
-SEGA:	33.16%
-SEA:	66.84%
+0.569131832797
+Result after round 4 (102 votes)
+SEGA:	34.31%
+SEA:	65.69%
 Found winner: SEA
 ========================================
 Team                      Name   Votes Final score Runner up
@@ -71,381 +80,408 @@ Found winner: DALE
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Philly Pies
-Result after round 1 (27 votes)
-PIES:	59.26%
-PHPI:	3.70%
-PHL:	24.07%
-PHIL:	1.85%
-PIE:	11.11%
+Result after round 1 (30 votes)
+PIES:	61.67%
+PHPI:	3.33%
+PHL:	21.67%
+PHIL:	1.67%
+PIE:	11.67%
 Found winner: PIES
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Tokyo Lift
-Result after round 1 (11 votes)
-LIFT:	63.64%
-LFT:	4.55%
-TKYO:	13.64%
-TKL:	18.18%
+Result after round 1 (20 votes)
+LIFT:	65.00%
+LFT:	2.50%
+TKYO:	12.50%
+TKL:	20.00%
 Found winner: LIFT
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Charleston Shoe Thieves
-Result after round 1 (36 votes)
-CHST:	58.33%
-CST:	6.94%
-SHOE:	34.72%
+Result after round 1 (41 votes)
+CHST:	62.20%
+CST:	7.32%
+SHOE:	30.49%
 Found winner: CHST
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Boston Flowers
-Result after round 1 (63 votes)
-BOS:	23.28%
-BOF:	12.17%
-BOSF:	6.61%
-BFL:	17.59%
-BFR:	1.32%
-BFLW:	12.17%
-FLW:	7.54%
-FLWR:	16.01%
-FLWS:	3.31%
+Result after round 1 (64 votes)
+BOS:	23.70%
+BOF:	12.76%
+BOSF:	6.51%
+BFL:	17.32%
+BFR:	1.30%
+BFLW:	11.98%
+FLW:	7.42%
+FLWR:	15.76%
+FLWS:	3.26%
 No winners above threshold, running another round after eliminating BFR
-0.943181818182
-Result after round 2 (70 votes)
-BOS:	22.98%
-BOF:	13.45%
-BOSF:	7.02%
-BFL:	16.79%
-BFLW:	10.95%
-FLW:	8.21%
-FLWR:	17.62%
-FLWS:	2.98%
+0.945054945055
+Result after round 2 (71 votes)
+BOS:	23.36%
+BOF:	13.97%
+BOSF:	6.92%
+BFL:	16.55%
+BFLW:	10.80%
+FLW:	8.10%
+FLWR:	17.37%
+FLWS:	2.93%
 No winners above threshold, running another round after eliminating FLWS
-0.870466321244
-Result after round 3 (70 votes)
-BOS:	22.98%
-BOF:	13.45%
-BOSF:	7.26%
-BFL:	17.62%
-BFLW:	11.19%
-FLW:	8.57%
-FLWR:	18.93%
+0.874371859296
+Result after round 3 (71 votes)
+BOS:	23.36%
+BOF:	13.97%
+BOSF:	7.16%
+BFL:	17.37%
+BFLW:	11.03%
+FLW:	8.45%
+FLWR:	18.66%
 No winners above threshold, running another round after eliminating BOSF
-0.683937823834
-Result after round 4 (70 votes)
-BOS:	24.76%
-BOF:	15.24%
-BFL:	19.05%
-BFLW:	12.38%
-FLW:	8.81%
-FLWR:	19.76%
+0.693467336683
+Result after round 4 (71 votes)
+BOS:	25.12%
+BOF:	15.73%
+BFL:	18.78%
+BFLW:	12.21%
+FLW:	8.69%
+FLWR:	19.48%
 No winners above threshold, running another round after eliminating FLW
-0.644230769231
-Result after round 5 (70 votes)
-BFL:	21.19%
-BFLW:	12.62%
-FLWR:	22.38%
-BOS:	26.90%
-BOF:	16.90%
+0.654205607477
+Result after round 5 (71 votes)
+BFL:	20.89%
+BFLW:	12.44%
+FLWR:	22.07%
+BOS:	27.23%
+BOF:	17.37%
 No winners above threshold, running another round after eliminating BFLW
-0.530973451327
-Result after round 6 (70 votes)
-BFL:	26.19%
-FLWR:	25.48%
-BOS:	28.10%
-BOF:	20.24%
+0.543103448276
+Result after round 6 (71 votes)
+BFL:	25.82%
+FLWR:	25.12%
+BOS:	28.40%
+BOF:	20.66%
 No winners above threshold, running another round after eliminating BOF
-0.279661016949
-Result after round 7 (69 votes)
-BFL:	36.71%
-FLWR:	30.19%
-BOS:	33.09%
+0.272727272727
+Result after round 7 (70 votes)
+BFL:	36.19%
+FLWR:	29.76%
+BOS:	34.05%
 No winners above threshold, running another round after eliminating FLWR
 0.177631578947
-Result after round 8 (65 votes)
-BFL:	52.31%
-BOS:	47.69%
+Result after round 8 (66 votes)
+BFL:	51.52%
+BOS:	48.48%
 Found winner: BFL
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Hades Tigers
-Result after round 1 (56 votes)
-HAT:	13.10%
-TIGR:	14.58%
-TGRS:	22.92%
-TGR:	16.96%
-HDT:	8.93%
-HAD:	9.52%
-HDES:	13.99%
-No winners above threshold, running another round after eliminating HDT
-0.61038961039
-Result after round 2 (75 votes)
-HAT:	14.44%
-TIGR:	17.11%
-TGRS:	21.33%
-TGR:	17.11%
-HAD:	15.78%
-HDES:	14.22%
+Result after round 1 (63 votes)
+HAT:	12.04%
+TIGR:	16.67%
+TGRS:	22.88%
+TGR:	16.80%
+HDT:	10.71%
+HAD:	8.47%
+HDES:	12.43%
+No winners above threshold, running another round after eliminating HAD
+0.630057803468
+Result after round 2 (83 votes)
+HAT:	14.16%
+TIGR:	18.78%
+TGRS:	20.28%
+TGR:	16.97%
+HDT:	17.27%
+HDES:	12.55%
 No winners above threshold, running another round after eliminating HDES
-0.333333333333
-Result after round 3 (74 votes)
-HAD:	18.69%
-HAT:	14.64%
-TIGR:	18.47%
-TGRS:	27.25%
-TGR:	20.95%
+0.381188118812
+Result after round 3 (83 votes)
+HDT:	20.38%
+HAT:	14.16%
+TIGR:	19.88%
+TGRS:	24.80%
+TGR:	20.78%
 No winners above threshold, running another round after eliminating HAT
-0.462809917355
-Result after round 4 (74 votes)
-HAD:	27.48%
-TIGR:	18.92%
-TGRS:	29.73%
-TGR:	23.87%
+0.429149797571
+Result after round 4 (83 votes)
+HDT:	28.31%
+TIGR:	21.69%
+TGRS:	26.71%
+TGR:	23.29%
 No winners above threshold, running another round after eliminating TIGR
-0.363636363636
-Result after round 5 (74 votes)
-HAD:	29.50%
-TGRS:	40.99%
-TGR:	29.50%
-No winners above threshold, running another round after eliminating TGR
-0.28021978022
-Result after round 6 (74 votes)
-HAD:	38.51%
-TGRS:	61.49%
+0.234042553191
+Result after round 5 (83 votes)
+HDT:	30.12%
+TGRS:	39.16%
+TGR:	30.72%
+No winners above threshold, running another round after eliminating HDT
+0.230769230769
+Result after round 6 (79 votes)
+TGRS:	51.27%
+TGR:	48.73%
 Found winner: TGRS
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Chicago Firefighters
-Result after round 1 (15 votes)
-FIRE:	24.44%
-CHIF:	8.89%
-CHFF:	5.56%
-CFF:	2.22%
-CHI:	58.89%
+Result after round 1 (20 votes)
+FIRE:	30.83%
+CHIF:	9.17%
+CHFF:	4.17%
+CFF:	4.17%
+CHI:	51.67%
+No winners above threshold, running another round after eliminating CFF
+0.91935483871
+Result after round 2 (23 votes)
+FIRE:	31.88%
+CHIF:	14.49%
+CHFF:	5.80%
+CHI:	47.83%
+No winners above threshold, running another round after eliminating CHFF
+0.878787878788
+Result after round 3 (23 votes)
+FIRE:	34.78%
+CHIF:	15.22%
+CHI:	50.00%
+No winners above threshold, running another round after eliminating CHIF
+0.695652173913
+Result after round 4 (23 votes)
+FIRE:	41.30%
+CHI:	58.70%
 Found winner: CHI
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Unlimited Tacos
-Result after round 1 (41 votes)
-TACO:	75.20%
-UTAC:	4.47%
-UNTA:	4.88%
-ULT:	4.88%
-ULTA:	10.57%
+Result after round 1 (47 votes)
+TACO:	75.18%
+UTAC:	4.96%
+UNTA:	4.26%
+ULT:	6.38%
+ULTA:	9.22%
 Found winner: TACO
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Canada Moist Talkers
-Result after round 1 (41 votes)
-TALK:	21.54%
-CAN:	30.49%
-CMT:	30.08%
-CDMT:	1.22%
-CAMT:	16.67%
+Result after round 1 (52 votes)
+TALK:	21.79%
+CAN:	28.85%
+CMT:	29.49%
+CDMT:	0.96%
+CAMT:	18.91%
 No winners above threshold, running another round after eliminating CDMT
-0.96
-Result after round 2 (48 votes)
-TALK:	22.57%
-CAN:	31.25%
-CMT:	29.86%
-CAMT:	16.32%
+0.967391304348
+Result after round 2 (63 votes)
+TALK:	25.13%
+CAN:	28.57%
+CMT:	29.10%
+CAMT:	17.20%
 No winners above threshold, running another round after eliminating CAMT
-0.477777777778
-Result after round 3 (48 votes)
-TALK:	32.29%
-CAN:	34.38%
-CMT:	33.33%
-No winners above threshold, running another round after eliminating TALK
-0.0606060606061
-Result after round 4 (48 votes)
-CAN:	51.04%
-CMT:	48.96%
-Found winner: CAN
+0.409090909091
+Result after round 3 (63 votes)
+TALK:	35.71%
+CAN:	32.54%
+CMT:	31.75%
+No winners above threshold, running another round after eliminating CMT
+0.111111111111
+Result after round 4 (62 votes)
+TALK:	51.61%
+CAN:	48.39%
+Found winner: TALK
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Houston Spies
-Result after round 1 (20 votes)
-HOUS:	5.00%
-HSPY:	3.33%
-HOU:	38.33%
-SPYS:	10.83%
-SPY:	42.50%
+Result after round 1 (24 votes)
+HOUS:	4.17%
+HSPY:	2.78%
+HOU:	31.94%
+SPYS:	13.19%
+SPY:	47.92%
 No winners above threshold, running another round after eliminating HSPY
-0.921568627451
-Result after round 2 (23 votes)
-HOUS:	5.80%
-HOU:	36.23%
-SPYS:	11.59%
-SPY:	46.38%
+0.942028985507
+Result after round 2 (27 votes)
+HOUS:	4.94%
+HOU:	30.86%
+SPYS:	13.58%
+SPY:	50.62%
 No winners above threshold, running another round after eliminating HOUS
-0.875
-Result after round 3 (23 votes)
-HOU:	40.58%
-SPYS:	12.32%
-SPY:	47.10%
+0.90243902439
+Result after round 3 (27 votes)
+HOU:	34.57%
+SPYS:	14.20%
+SPY:	51.23%
 No winners above threshold, running another round after eliminating SPYS
-0.738461538462
-Result after round 4 (23 votes)
-HOU:	41.30%
-SPY:	58.70%
+0.722891566265
+Result after round 4 (27 votes)
+HOU:	37.04%
+SPY:	62.96%
 Found winner: SPY
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Dallas Steaks
-Result after round 1 (19 votes)
-STK:	38.60%
-STKS:	20.18%
-STEK:	13.16%
-DAL:	28.07%
+Result after round 1 (20 votes)
+STK:	39.17%
+STKS:	21.67%
+STEK:	12.50%
+DAL:	26.67%
 No winners above threshold, running another round after eliminating STEK
-0.659090909091
-Result after round 2 (19 votes)
-STK:	46.49%
-STKS:	22.81%
-DAL:	30.70%
+0.68085106383
+Result after round 2 (20 votes)
+STK:	46.67%
+STKS:	24.17%
+DAL:	29.17%
 No winners above threshold, running another round after eliminating STKS
-0.509433962264
-Result after round 3 (19 votes)
-STK:	60.53%
-DAL:	39.47%
+0.482142857143
+Result after round 3 (20 votes)
+STK:	62.50%
+DAL:	37.50%
 Found winner: STK
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Yellowstone Magic
-Result after round 1 (15 votes)
-YELL:	70.00%
-YEL:	6.67%
-YSM:	23.33%
+Result after round 1 (26 votes)
+YELL:	73.08%
+YEL:	3.85%
+YSM:	23.08%
 Found winner: YELL
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Hawai'i Fridays
-Result after round 1 (28 votes)
-HFRI:	23.81%
-HIF:	14.29%
-HWI:	4.76%
-FRI:	38.10%
-HWF:	19.05%
+Result after round 1 (36 votes)
+HIF:	16.20%
+HFRI:	17.59%
+HWʻI:	19.91%
+HWI:	2.78%
+FRI:	30.09%
+HWF:	13.43%
 No winners above threshold, running another round after eliminating HWI
-0.875
-Result after round 2 (33 votes)
-HFRI:	31.31%
-HIF:	12.12%
-FRI:	35.86%
-HWF:	20.71%
+0.907692307692
+Result after round 2 (41 votes)
+HIF:	14.23%
+HFRI:	23.58%
+HWʻI:	18.29%
+FRI:	28.46%
+HWF:	15.45%
 No winners above threshold, running another round after eliminating HIF
-0.661971830986
-Result after round 3 (33 votes)
-HFRI:	37.37%
-FRI:	35.86%
-HWF:	26.77%
+0.5
+Result after round 3 (41 votes)
+HFRI:	28.05%
+HWʻI:	19.92%
+FRI:	32.52%
+HWF:	19.51%
 No winners above threshold, running another round after eliminating HWF
-0.283783783784
-Result after round 4 (31 votes)
-HFRI:	50.00%
-FRI:	50.00%
-Found winner: HFRI
+0.4
+Result after round 4 (41 votes)
+HFRI:	34.15%
+HWʻI:	24.39%
+FRI:	41.46%
+No winners above threshold, running another round after eliminating HWʻI
+0.411764705882
+Result after round 5 (40 votes)
+HFRI:	45.00%
+FRI:	55.00%
+Found winner: FRI
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Hellmouth Sunbeams
-Result after round 1 (77 votes)
-SUNB:	4.33%
-SUN:	4.55%
-BEAM:	32.47%
-HELL:	42.64%
-HMSB:	6.71%
-HSUN:	7.36%
-HMTH:	1.95%
+Result after round 1 (88 votes)
+SUNB:	4.17%
+SUN:	8.33%
+BEAM:	31.82%
+HELL:	39.77%
+HMSB:	7.01%
+HSUN:	7.20%
+HMTH:	1.70%
 No winners above threshold, running another round after eliminating HMTH
-0.954314720812
-Result after round 2 (92 votes)
-SUNB:	5.43%
-SUN:	5.25%
-BEAM:	33.51%
-HELL:	39.13%
-HMSB:	10.51%
-HSUN:	6.16%
-No winners above threshold, running another round after eliminating SUN
-0.865740740741
-Result after round 3 (92 votes)
-BEAM:	35.69%
-HELL:	39.86%
-HMSB:	12.14%
-HSUN:	6.16%
-SUNB:	6.16%
+0.957142857143
+Result after round 2 (104 votes)
+SUNB:	5.13%
+SUN:	8.65%
+BEAM:	32.85%
+HELL:	37.02%
+HMSB:	10.26%
+HSUN:	6.09%
 No winners above threshold, running another round after eliminating SUNB
-0.845454545455
-Result after round 4 (92 votes)
-BEAM:	38.22%
-HELL:	41.12%
-HMSB:	12.32%
-HSUN:	8.33%
+0.861471861472
+Result after round 3 (104 votes)
+BEAM:	34.29%
+HELL:	37.82%
+HMSB:	10.42%
+HSUN:	8.17%
+SUN:	9.29%
 No winners above threshold, running another round after eliminating HSUN
-0.797356828194
-Result after round 5 (92 votes)
-BEAM:	41.30%
-HELL:	44.57%
-HMSB:	14.13%
+0.783898305085
+Result after round 4 (104 votes)
+BEAM:	37.66%
+HELL:	41.03%
+HMSB:	12.02%
+SUN:	9.29%
+No winners above threshold, running another round after eliminating SUN
+0.7734375
+Result after round 5 (104 votes)
+BEAM:	41.83%
+HELL:	42.79%
+HMSB:	15.38%
 No winners above threshold, running another round after eliminating HMSB
-0.682926829268
-Result after round 6 (92 votes)
-BEAM:	47.83%
-HELL:	52.17%
+0.640449438202
+Result after round 6 (103 votes)
+BEAM:	48.54%
+HELL:	51.46%
 Found winner: HELL
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Kansas City Breath Mints
-Result after round 1 (13 votes)
-KCBM:	84.62%
-MINT:	15.38%
+Result after round 1 (14 votes)
+KCBM:	78.57%
+MINT:	21.43%
 Found winner: KCBM
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for Baltimore Crabs
-Result after round 1 (78 votes)
-BALC:	19.66%
-CRAB:	67.09%
-BAL:	6.20%
-CRB:	7.05%
+Result after round 1 (81 votes)
+BALC:	18.93%
+CRAB:	65.84%
+BAL:	7.20%
+CRB:	8.02%
 Found winner: CRAB
 ========================================
 Team                      Name   Votes Final score Runner up
 Tabulating votes for San Francisco Lovers
-Result after round 1 (51 votes)
-SFL:	16.01%
-LVRS:	37.58%
-SFLV:	3.92%
-LOVE:	42.48%
+Result after round 1 (52 votes)
+SFL:	15.71%
+LVRS:	36.86%
+SFLV:	3.85%
+LOVE:	43.59%
 No winners above threshold, running another round after eliminating SFLV
-0.907692307692
-Result after round 2 (57 votes)
-SFL:	24.85%
-LVRS:	36.26%
-LOVE:	38.89%
+0.911764705882
+Result after round 2 (61 votes)
+SFL:	26.50%
+LVRS:	35.52%
+LOVE:	37.98%
 No winners above threshold, running another round after eliminating SFL
-0.360902255639
-Result after round 3 (55 votes)
-LVRS:	51.82%
-LOVE:	48.18%
+0.302158273381
+Result after round 3 (59 votes)
+LVRS:	53.39%
+LOVE:	46.61%
 Found winner: LVRS
 ========================================
 Team                      Name   Votes Final score Runner up
-New York Millennials      NYM    21     52.50%      MILS
-San Francisco Lovers      LVRS   57     51.82%      LOVE
-Tokyo Lift                LIFT   14     63.64%      
-Seattle Garages           SEA    97     66.84%      
+New York Millennials      NYM    26     58.33%      
+San Francisco Lovers      LVRS   61     53.39%      LOVE
+Tokyo Lift                LIFT   24     65.00%      
+Seattle Garages           SEA    104    65.69%      
 Miami Dale                DALE   7      100.00%      DALE
-Philly Pies               PIES   31     59.26%      
-Hawai'i Fridays           HFRI   38     50.00%      FRI
-Charleston Shoe Thieves   CHST   45     58.33%      
-Boston Flowers            BFL    70     52.31%      FLWR,BOS
-Baltimore Crabs           CRAB   88     67.09%      
-Chicago Firefighters      CHI    17     58.89%      
-Breckenridge Jazz Hands   JAZZ   41     77.27%      
-Unlimited Tacos           TACO   43     75.20%      
-Houston Spies             SPY    23     58.70%      
-Yellowstone Magic         YELL   20     70.00%      
-Canada Moist Talkers      CAN    48     51.04%      TALK,CMT
-Hellmouth Sunbeams        HELL   92     52.17%      BEAM
-Kansas City Breath Mints  KCBM   15     84.62%      
-Hades Tigers              TGRS   76     61.49%      
-Dallas Steaks             STK    19     60.53%      
+Philly Pies               PIES   34     61.67%      
+Hawai'i Fridays           FRI    41     55.00%      HFRI
+Charleston Shoe Thieves   CHST   53     62.20%      
+Boston Flowers            BFL    71     51.52%      FLWR,BOS
+Baltimore Crabs           CRAB   91     65.84%      
+Chicago Firefighters      CHI    23     58.70%      
+Breckenridge Jazz Hands   JAZZ   43     77.94%      
+Unlimited Tacos           TACO   50     75.18%      
+Houston Spies             SPY    27     62.96%      
+Yellowstone Magic         YELL   32     73.08%      
+Canada Moist Talkers      TALK   63     51.61%      CMT,CAN
+Hellmouth Sunbeams        HELL   104    51.46%      BEAM
+Kansas City Breath Mints  KCBM   17     78.57%      
+Hades Tigers              TGRS   84     51.27%      TGR
+Dallas Steaks             STK    20     62.50%      
