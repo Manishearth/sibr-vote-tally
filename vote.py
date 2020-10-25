@@ -17,6 +17,7 @@ def run(all_entries, names, team, threshold):
     eliminated = set()
     runner_up_losers = []
     print "Tabulating votes for %s" % team
+    totalvotes = 0
     while True:
         indexmap = {}
         votes = 0
@@ -28,7 +29,7 @@ def run(all_entries, names, team, threshold):
                 if index not in indexmap:
                     indexmap[index] = 0
                 indexmap[index] += 1. / len(indices)
-
+        totalvotes = max(totalvotes, votes)
         print "Result after round %s (%s votes)" % (r, votes)
         winners = []
         loser = -1
@@ -51,10 +52,10 @@ def run(all_entries, names, team, threshold):
             runner_up_losers.append(names[loser])
         if len(winners) == 1:
             print "Found winner: %s" % names[winners[0]]
-            return (names[winner], 100 * indexmap[winner] / votes, ",".join(runner_up_losers))
+            return (names[winner], 100 * indexmap[winner] / votes, ",".join(runner_up_losers), totalvotes)
         if len(indexmap) <= 2:
             print "Found winner: %s" % names[winner]
-            return (names[winner], winnerscore, ",".join(runner_up_losers))
+            return (names[winner], winnerscore, ",".join(runner_up_losers), totalvotes)
         elif len(winners) == 2:
             print "Multiple winners, running another round after eliminating %s" % names[loser]
         else:
@@ -107,8 +108,8 @@ if args.all:
         team_results[team] = run(all_entries, names, team, args.threshold)
         print "========================================"
 
-        print "{:<25} {:<5} {} {}".format("Team", "Name", "Final score", "Runner up")
+        print "{:<25} {:<6} {:<5} {} {}".format("Team", "Name", "Votes", "Final score", "Runner up")
     for team in team_results:
-        print "{:<25} {:<6} {:3.2f}%      {}".format(team, team_results[team][0], team_results[team][1], team_results[team][2])
+        print "{:<25} {:<6} {:<6} {:3.2f}%      {}".format(team, team_results[team][0], team_results[team][3], team_results[team][1], team_results[team][2])
 else:
     run(all_entries, names, args.team, args.threshold)
