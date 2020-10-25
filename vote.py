@@ -15,6 +15,7 @@ def run(all_entries, names, team, threshold):
 
     r = 1
     eliminated = set()
+    runner_up_losers = []
     print "Tabulating votes for %s" % team
     while True:
         indexmap = {}
@@ -46,20 +47,19 @@ def run(all_entries, names, team, threshold):
             if pc > threshold:
                 winners.append(index)
 
+        if (winnerscore - loserscore) / winnerscore < 0.1:
+            runner_up_losers.append(names[loser])
         if len(winners) == 1:
             print "Found winner: %s" % names[winners[0]]
-            return (names[winner], 100 * indexmap[winner] / votes, "")
-        if len(indexmap) == 1:
+            return (names[winner], 100 * indexmap[winner] / votes, ",".join(runner_up_losers))
+        if len(indexmap) <= 2:
             print "Found winner: %s" % names[winner]
-            return (names[winner], winnerscore, "")
-        if len(indexmap) == 2:
-            runner = [w for w in indexmap if w != winner][0]
-            print "Found winner: %s" % names[winner]
-            return (names[winner], winnerscore, names[runner])
+            return (names[winner], winnerscore, ",".join(runner_up_losers))
         elif len(winners) == 2:
             print "Multiple winners, running another round after eliminating %s" % names[loser]
         else:
             print "No winners above threshold, running another round after eliminating %s" % names[loser]
+        print (winnerscore - loserscore) / winnerscore
         eliminated.add(loser)
         r += 1
         for entry in entries:
@@ -109,6 +109,6 @@ if args.all:
 
         print "{:<25} {:<5} {} {}".format("Team", "Name", "Final score", "Runner up")
     for team in team_results:
-        print "{:<25} {:<5} {:2.2f}%      {}".format(team, team_results[team][0], team_results[team][1], team_results[team][2])
+        print "{:<25} {:<6} {:3.2f}%      {}".format(team, team_results[team][0], team_results[team][1], team_results[team][2])
 else:
     run(all_entries, names, args.team, args.threshold)
