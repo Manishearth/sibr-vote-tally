@@ -60,7 +60,6 @@ def run(all_entries, names, team, threshold):
             print "Multiple winners, running another round after eliminating %s" % names[loser]
         else:
             print "No winners above threshold, running another round after eliminating %s" % names[loser]
-        print (winnerscore - loserscore) / winnerscore
         eliminated.add(loser)
         r += 1
         for entry in entries:
