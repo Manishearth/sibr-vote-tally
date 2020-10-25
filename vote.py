@@ -52,10 +52,10 @@ def run(all_entries, names, team, threshold):
             runner_up_losers.append(names[loser])
         if len(winners) == 1:
             print "Found winner: %s" % names[winners[0]]
-            return (names[winner], 100 * indexmap[winner] / votes, ",".join(runner_up_losers), totalvotes)
+            return (names[winner], 100 * indexmap[winner] / votes, ",".join(runner_up_losers), totalvotes, r)
         if len(indexmap) <= 2:
             print "Found winner: %s" % names[winner]
-            return (names[winner], winnerscore, ",".join(runner_up_losers), totalvotes)
+            return (names[winner], winnerscore, ",".join(runner_up_losers), totalvotes, r)
         elif len(winners) == 2:
             print "Multiple winners, running another round after eliminating %s" % names[loser]
         else:
@@ -108,8 +108,8 @@ if args.all:
         team_results[team] = run(all_entries, names, team, args.threshold)
         print "========================================"
 
-        print "{:<25} {:<6} {:<5} {} {}".format("Team", "Name", "Votes", "Final score", "Runner up")
+        print "{:<25} {:<6} {:<5} {:<6} {} {:<10}".format("Team", "Name", "Votes", "Rounds", "Final score", "Runner up")
     for team in team_results:
-        print "{:<25} {:<6} {:<6} {:3.2f}%      {}".format(team, team_results[team][0], team_results[team][3], team_results[team][1], team_results[team][2])
+        print "{:<25} {:<6} {:<6} {:<6} {:3.2f}%      {}".format(team, team_results[team][0], team_results[team][3], team_results[team][4], team_results[team][1], team_results[team][2])
 else:
     run(all_entries, names, args.team, args.threshold)
