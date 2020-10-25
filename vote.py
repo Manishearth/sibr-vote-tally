@@ -17,7 +17,7 @@ def run(all_entries, names, team, threshold):
     eliminated = set()
     runner_up_losers = []
     print "Tabulating votes for %s" % team
-    totalvotes = 0
+    totalvotes = len(entries)
     while True:
         indexmap = {}
         votes = 0
@@ -29,7 +29,6 @@ def run(all_entries, names, team, threshold):
                 if index not in indexmap:
                     indexmap[index] = 0
                 indexmap[index] += 1. / len(indices)
-        totalvotes = max(totalvotes, votes)
         print "Result after round %s (%s votes)" % (r, votes)
         winners = []
         loser = -1
