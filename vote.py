@@ -37,7 +37,7 @@ def run(all_entries, names, team, threshold):
         winnerscore = 0
         for index in indexmap:
             pc = 100 * indexmap[index] / votes
-            if pc < loserscore:
+            if pc <= loserscore:
                 loser = index
                 loserscore = pc
             if pc > winnerscore:
@@ -47,7 +47,7 @@ def run(all_entries, names, team, threshold):
             if pc > threshold:
                 winners.append(index)
 
-        if (winnerscore - loserscore) / winnerscore < 0.1:
+        if (winnerscore - loserscore) / winnerscore < 0.22:
             runner_up_losers.append(names[loser])
         if len(winners) == 1:
             print "Found winner: %s" % names[winners[0]]
