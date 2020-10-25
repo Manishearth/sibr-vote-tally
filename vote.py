@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import argparse
 import re
 import csv
@@ -99,7 +100,7 @@ with open(args.file) as csvfile:
         all_entries.append(line)
         all_teams.add(line[1])
 
-reg = re.compile("\\[([A-Z]+)\\]")
+reg = re.compile("\\[([A-Zʻ]+)\\]")
 names = [reg.search(col).group(1) if reg.search(col) else None for col in firstrow]
 if args.all:
     team_results = {}
