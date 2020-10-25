@@ -25,7 +25,7 @@ NYM:	52.50%
 MILS:	47.50%
 Found winner: NYM
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Breckenridge Jazz Hands
 Result after round 1 (33 votes)
 BJH:	1.52%
@@ -35,7 +35,7 @@ JAND:	6.06%
 JAZZ:	77.27%
 Found winner: JAZZ
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Seattle Garages
 Result after round 1 (77 votes)
 GAR:	11.47%
@@ -63,13 +63,13 @@ SEGA:	33.16%
 SEA:	66.84%
 Found winner: SEA
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Miami Dale
 Result after round 1 (7 votes)
 DALE:	100.00%
 Found winner: DALE
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Philly Pies
 Result after round 1 (27 votes)
 PIES:	59.26%
@@ -79,7 +79,7 @@ PHIL:	1.85%
 PIE:	11.11%
 Found winner: PIES
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Tokyo Lift
 Result after round 1 (11 votes)
 LIFT:	63.64%
@@ -88,7 +88,7 @@ TKYO:	13.64%
 TKL:	18.18%
 Found winner: LIFT
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Charleston Shoe Thieves
 Result after round 1 (36 votes)
 CHST:	58.33%
@@ -96,7 +96,7 @@ CST:	6.94%
 SHOE:	34.72%
 Found winner: CHST
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Boston Flowers
 Result after round 1 (63 votes)
 BOS:	23.28%
@@ -166,7 +166,7 @@ BFL:	52.31%
 BOS:	47.69%
 Found winner: BFL
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Hades Tigers
 Result after round 1 (56 votes)
 HAT:	13.10%
@@ -213,7 +213,7 @@ HAD:	38.51%
 TGRS:	61.49%
 Found winner: TGRS
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Chicago Firefighters
 Result after round 1 (15 votes)
 FIRE:	24.44%
@@ -223,7 +223,7 @@ CFF:	2.22%
 CHI:	58.89%
 Found winner: CHI
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Unlimited Tacos
 Result after round 1 (41 votes)
 TACO:	75.20%
@@ -233,7 +233,7 @@ ULT:	4.88%
 ULTA:	10.57%
 Found winner: TACO
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Canada Moist Talkers
 Result after round 1 (41 votes)
 TALK:	21.54%
@@ -261,7 +261,7 @@ CAN:	51.04%
 CMT:	48.96%
 Found winner: CAN
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Houston Spies
 Result after round 1 (20 votes)
 HOUS:	5.00%
@@ -289,7 +289,7 @@ HOU:	41.30%
 SPY:	58.70%
 Found winner: SPY
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Dallas Steaks
 Result after round 1 (19 votes)
 STK:	38.60%
@@ -309,7 +309,7 @@ STK:	60.53%
 DAL:	39.47%
 Found winner: STK
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Yellowstone Magic
 Result after round 1 (15 votes)
 YELL:	70.00%
@@ -317,7 +317,7 @@ YEL:	6.67%
 YSM:	23.33%
 Found winner: YELL
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Hawai'i Fridays
 Result after round 1 (28 votes)
 HFRI:	23.81%
@@ -345,7 +345,7 @@ HFRI:	50.00%
 FRI:	50.00%
 Found winner: HFRI
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Hellmouth Sunbeams
 Result after round 1 (77 votes)
 SUNB:	4.33%
@@ -392,14 +392,14 @@ BEAM:	47.83%
 HELL:	52.17%
 Found winner: HELL
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Kansas City Breath Mints
 Result after round 1 (13 votes)
 KCBM:	84.62%
 MINT:	15.38%
 Found winner: KCBM
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for Baltimore Crabs
 Result after round 1 (78 votes)
 BALC:	19.66%
@@ -408,7 +408,7 @@ BAL:	6.20%
 CRB:	7.05%
 Found winner: CRAB
 ========================================
-Team                      Name  Final score Runner up
+Team                      Name   Votes Final score Runner up
 Tabulating votes for San Francisco Lovers
 Result after round 1 (51 votes)
 SFL:	16.01%
@@ -428,24 +428,24 @@ LVRS:	51.82%
 LOVE:	48.18%
 Found winner: LVRS
 ========================================
-Team                      Name  Final score Runner up
-New York Millennials      NYM    52.50%      MILS
-San Francisco Lovers      LVRS   51.82%      LOVE
-Tokyo Lift                LIFT   63.64%      
-Seattle Garages           SEA    66.84%      
-Miami Dale                DALE   100.00%      DALE
-Philly Pies               PIES   59.26%      
-Hawai'i Fridays           HFRI   50.00%      FRI
-Charleston Shoe Thieves   CHST   58.33%      
-Boston Flowers            BFL    52.31%      FLWR,BOS
-Baltimore Crabs           CRAB   67.09%      
-Chicago Firefighters      CHI    58.89%      
-Breckenridge Jazz Hands   JAZZ   77.27%      
-Unlimited Tacos           TACO   75.20%      
-Houston Spies             SPY    58.70%      
-Yellowstone Magic         YELL   70.00%      
-Canada Moist Talkers      CAN    51.04%      TALK,CMT
-Hellmouth Sunbeams        HELL   52.17%      BEAM
-Kansas City Breath Mints  KCBM   84.62%      
-Hades Tigers              TGRS   61.49%      
-Dallas Steaks             STK    60.53%      
+Team                      Name   Votes Final score Runner up
+New York Millennials      NYM    21     52.50%      MILS
+San Francisco Lovers      LVRS   57     51.82%      LOVE
+Tokyo Lift                LIFT   11     63.64%      
+Seattle Garages           SEA    97     66.84%      
+Miami Dale                DALE   7      100.00%      DALE
+Philly Pies               PIES   27     59.26%      
+Hawai'i Fridays           HFRI   33     50.00%      FRI
+Charleston Shoe Thieves   CHST   36     58.33%      
+Boston Flowers            BFL    70     52.31%      FLWR,BOS
+Baltimore Crabs           CRAB   78     67.09%      
+Chicago Firefighters      CHI    15     58.89%      
+Breckenridge Jazz Hands   JAZZ   33     77.27%      
+Unlimited Tacos           TACO   41     75.20%      
+Houston Spies             SPY    23     58.70%      
+Yellowstone Magic         YELL   15     70.00%      
+Canada Moist Talkers      CAN    48     51.04%      TALK,CMT
+Hellmouth Sunbeams        HELL   92     52.17%      BEAM
+Kansas City Breath Mints  KCBM   13     84.62%      
+Hades Tigers              TGRS   75     61.49%      
+Dallas Steaks             STK    19     60.53%      
